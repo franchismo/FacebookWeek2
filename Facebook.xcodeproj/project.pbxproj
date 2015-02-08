@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		281CA1A91A7B077C00D05451 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281CA1A81A7B077C00D05451 /* Common.swift */; };
 		281CA1AB1A7B082300D05451 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281CA1AA1A7B082300D05451 /* LoginViewController.swift */; };
+		289C4BAC1A87401E00C23C23 /* Facebook Week 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 289C4BAB1A87401E00C23C23 /* Facebook Week 2.gif */; };
 		42167656198E3220008CCBC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42167655198E3220008CCBC3 /* AppDelegate.swift */; };
 		4216765B198E3220008CCBC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42167659198E3220008CCBC3 /* Main.storyboard */; };
 		4216765D198E3220008CCBC3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4216765C198E3220008CCBC3 /* Images.xcassets */; };
@@ -37,6 +38,7 @@
 /* Begin PBXFileReference section */
 		281CA1A81A7B077C00D05451 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		281CA1AA1A7B082300D05451 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		289C4BAB1A87401E00C23C23 /* Facebook Week 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Facebook Week 2.gif"; sourceTree = "<group>"; };
 		42167650198E3220008CCBC3 /* Facebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Facebook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42167654198E3220008CCBC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42167655198E3220008CCBC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		42167647198E3220008CCBC3 = {
 			isa = PBXGroup;
 			children = (
+				289C4BAB1A87401E00C23C23 /* Facebook Week 2.gif */,
 				42167652198E3220008CCBC3 /* Facebook */,
 				42167665198E3220008CCBC3 /* FacebookTests */,
 				42167651198E3220008CCBC3 /* Products */,
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4216765B198E3220008CCBC3 /* Main.storyboard in Resources */,
+				289C4BAC1A87401E00C23C23 /* Facebook Week 2.gif in Resources */,
 				4216765D198E3220008CCBC3 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
